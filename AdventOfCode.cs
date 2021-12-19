@@ -6,8 +6,8 @@ namespace AdventOfCode21
     {
         static void Main(string[] args)
         {
-            AdventOfCode21._2.Main.Program1();
-            AdventOfCode21._2.Main.Program2();
+            AdventOfCode21._3.Main.Program1();
+            AdventOfCode21._3.Main.Program2();
         }
     }
 }
