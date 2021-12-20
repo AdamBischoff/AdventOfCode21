@@ -7,9 +7,9 @@ namespace AdventOfCode21
         static void Main(string[] args)
         {
             Console.WriteLine("Part One: \n----------");
-            AdventOfCode21._4.Main.Program1();
+            AdventOfCode21._5.Main.Program1();
             Console.WriteLine("\n\nPart Two: \n----------");
-            AdventOfCode21._4.Main.Program2();
+            AdventOfCode21._5.Main.Program2();
 
         }
     }
